@@ -21,4 +21,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Modifications to HTML files
+===========================
 
+* Added to the begining of each file:
+link href="style.css" rel="stylesheet"
