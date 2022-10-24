@@ -21,10 +21,10 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Nasiv Adhikari
+
 Modifications to HTML files
 ===========================
 
-* Added to the begining of each file:
-'''HTML
-<link rel="stylesheet" href="style.css">
-'''
+* Added to the begining of each file: link rel="stylesheet" href="style.css"
+* Removed the gutenberg links for chapter hyperlinks
