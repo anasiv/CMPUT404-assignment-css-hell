@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(224, 224, 224);
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 2.15ex;
+    padding: 1ex;
+    width: 150ex;
+    align-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.about {
+    display: flex;
+    align-items: center;
+    width: 90ex;
+    vertical-align: middle;
+}
+
+img.profile_pic {
+    width: 35%;
+    height: 35%;
+}
+
+p.about {
+    padding: 2ex;
+}
+
+.body {
+    float: left;
+    position: absolute;
+    width: 90ex;
+}
+
+.sidebar {
+    float: left;
+    position: relative;
+    width: 60ex;
+    left: 90ex;
+    padding: 2ex;
+    background-color: rgb(236, 230, 230);
+}

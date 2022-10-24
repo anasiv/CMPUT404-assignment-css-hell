@@ -25,4 +25,6 @@ Modifications to HTML files
 ===========================
 
 * Added to the begining of each file:
+'''HTML
 <link rel="stylesheet" href="style.css">
+'''
